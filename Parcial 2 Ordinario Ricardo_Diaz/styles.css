@@ -13,6 +13,8 @@ nav a {
     padding: 8px 0px;
     text-decoration: none;
     font-size: 14px;
+    border: 0px solid black;
+    border-right-width: 1px;
 }
 
 .form-container {
@@ -21,5 +23,11 @@ nav a {
     display: flex;
     width: 80%;
     margin: 0 auto;
+}
+
+.fields-container {
+    display: flex;
+    flex-direction: column;
+    padding: 8px;
 }
 
