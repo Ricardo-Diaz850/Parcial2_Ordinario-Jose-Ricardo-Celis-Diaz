@@ -1,0 +1,16 @@
+nav {
+    background-color: #a65e00;
+    justify-content: center;
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: #000000;
+    text-align: justify;
+    justify-content: center;
+    padding: 10px 50px;
+    font-weight: 100;
+    text-decoration: none;
+}
